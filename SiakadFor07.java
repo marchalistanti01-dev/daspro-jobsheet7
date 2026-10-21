@@ -10,7 +10,7 @@ public class SiakadFor07 {
             nilai = sc.nextDouble();
             
             if (nilai > tertinggi) {
-            tertinggi = nilai;
+                tertinggi = nilai;
             }
             
             if (nilai < terendah) {
